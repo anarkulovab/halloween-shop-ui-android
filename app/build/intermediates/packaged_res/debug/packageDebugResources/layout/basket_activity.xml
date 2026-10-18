@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".MainActivity">
+
+    <FrameLayout
+        android:layout_width="356dp"
+        android:layout_height="857dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="391dp"
+            android:layout_height="57dp"
+            android:layout_marginStart="1dp"
+            android:layout_marginTop="742dp"
+            android:background="@color/button"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:layout_width="39dp"
+                android:layout_height="39dp"
+                android:layout_marginStart="43dp"
+                android:layout_marginTop="10dp"
+                android:background="@null"
+                android:src="@drawable/bt1"
+                tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"></ImageButton>
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="69dp"
+                android:layout_marginTop="5dp"
+                android:background="@null"
+                android:src="@drawable/bt2_white"
+                tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"></ImageButton>
+
+            <ImageButton
+                android:layout_width="46dp"
+                android:layout_height="40.12dp"
+                android:layout_marginStart="66dp"
+                android:layout_marginTop="8dp"
+                android:background="@null"
+                android:src="@drawable/bt3"
+                tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"></ImageButton>
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="341dp"
+            android:layout_height="118dp"
+            android:layout_marginStart="11dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/yeon_sung"
+            android:text="@string/waiting"
+            android:textColor="@color/white"
+            android:textSize="36sp"></TextView>
+
+        <ImageView
+            android:layout_width="348dp"
+            android:layout_height="580dp"
+            android:layout_marginStart="4dp"
+            android:layout_marginTop="219dp"
+            android:src="@drawable/backfranc"></ImageView>
+
+        <ScrollView
+            android:id="@+id/scrollview"
+            android:layout_width="360dp"
+            android:layout_height="622dp"
+            android:layout_marginStart="-2dp"
+            android:layout_marginTop="120dp"
+            android:clipToPadding="false"
+            tools:ignore="SpeakableTextPresentCheck">
+
+            <GridLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:clipChildren="false"
+                android:columnCount="2">
+
+                <LinearLayout
+                    android:id="@+id/linear1"
+                    style="@style/basket_linear_left"
+                    android:layout_height="243dp"
+                    android:layout_marginTop="83dp">
+
+                    <FrameLayout style="@style/basket_frame">
+
+                        <ImageView style="@style/basket_image"></ImageView>
+
+                        <TextView style="@style/basket_text"></TextView>
+                    </FrameLayout>
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:id="@+id/linear2"
+                    style="@style/basket_linear_right"
+                    android:layout_marginTop="83dp">
+
+                    <FrameLayout style="@style/basket_frame">
+
+                        <ImageView style="@style/basket_image"></ImageView>
+
+                        <TextView style="@style/basket_text"></TextView>
+                    </FrameLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear3"
+                    style="@style/basket_linear_left">
+
+                    <FrameLayout style="@style/basket_frame">
+
+                        <ImageView style="@style/basket_image"></ImageView>
+
+                        <TextView style="@style/basket_text"></TextView>
+                    </FrameLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear4"
+                    style="@style/basket_linear_right">
+
+                    <FrameLayout style="@style/basket_frame">
+
+                        <ImageView style="@style/basket_image"></ImageView>
+
+                        <TextView style="@style/basket_text"></TextView>
+                    </FrameLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear5"
+                    style="@style/basket_linear_left">
+
+                    <FrameLayout style="@style/basket_frame">
+
+                        <ImageView style="@style/basket_image"></ImageView>
+
+                        <TextView style="@style/basket_text"></TextView>
+                    </FrameLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear6"
+                    style="@style/basket_linear_right">
+
+                    <FrameLayout style="@style/basket_frame">
+
+                        <ImageView style="@style/basket_image"></ImageView>
+
+                        <TextView style="@style/basket_text"></TextView>
+                    </FrameLayout>
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:id="@+id/linear7"
+                    style="@style/basket_linear_left">
+
+                    <FrameLayout style="@style/basket_frame">
+
+                        <ImageView style="@style/basket_image"></ImageView>
+
+                        <TextView style="@style/basket_text"></TextView>
+                    </FrameLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear8"
+                    style="@style/basket_linear_right">
+
+                    <FrameLayout style="@style/basket_frame">
+
+                        <ImageView style="@style/basket_image"></ImageView>
+
+                        <TextView style="@style/basket_text"></TextView>
+                    </FrameLayout>
+                </LinearLayout>
+
+            </GridLayout>
+
+        </ScrollView>
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

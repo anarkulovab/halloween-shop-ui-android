@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "com.example.halloweenapp-debug-32:/drawable_logo.png.flat",
+        "source": "com.example.halloweenapp-main-34:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/drawable_bt2.xml.flat",
+        "source": "com.example.halloweenapp-main-34:/drawable/bt2.xml"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/layout_profile_activity.xml.flat",
+        "source": "com.example.halloweenapp-main-34:/layout/profile_activity.xml"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/drawable_shape.xml.flat",
+        "source": "com.example.halloweenapp-main-34:/drawable/shape.xml"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/layout_sign_in_activity.xml.flat",
+        "source": "com.example.halloweenapp-main-34:/layout/sign_in_activity.xml"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.halloweenapp-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.halloweenapp-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.halloweenapp-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/drawable_bt2_white.xml.flat",
+        "source": "com.example.halloweenapp-main-34:/drawable/bt2_white.xml"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.halloweenapp-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.halloweenapp-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/drawable_profile_shape.xml.flat",
+        "source": "com.example.halloweenapp-main-34:/drawable/profile_shape.xml"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/drawable_down.png.flat",
+        "source": "com.example.halloweenapp-main-34:/drawable/down.png"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.halloweenapp-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/drawable_hat.png.flat",
+        "source": "com.example.halloweenapp-main-34:/drawable/hat.png"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/font_yeon_sung.xml.flat",
+        "source": "com.example.halloweenapp-main-34:/font/yeon_sung.xml"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/layout_main_activity.xml.flat",
+        "source": "com.example.halloweenapp-main-34:/layout/main_activity.xml"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/drawable_linear_shape.xml.flat",
+        "source": "com.example.halloweenapp-main-34:/drawable/linear_shape.xml"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/drawable_bt1_white.xml.flat",
+        "source": "com.example.halloweenapp-main-34:/drawable/bt1_white.xml"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.halloweenapp-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/drawable_backfranc.xml.flat",
+        "source": "com.example.halloweenapp-main-34:/drawable/backfranc.xml"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/drawable_franc.png.flat",
+        "source": "com.example.halloweenapp-main-34:/drawable/franc.png"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/drawable_soup.png.flat",
+        "source": "com.example.halloweenapp-main-34:/drawable/soup.png"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/layout_splash_activity.xml.flat",
+        "source": "com.example.halloweenapp-main-34:/layout/splash_activity.xml"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.halloweenapp-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.halloweenapp-main-34:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/drawable_bt1.xml.flat",
+        "source": "com.example.halloweenapp-main-34:/drawable/bt1.xml"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/drawable_bt3.xml.flat",
+        "source": "com.example.halloweenapp-main-34:/drawable/bt3.xml"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/layout_basket_activity.xml.flat",
+        "source": "com.example.halloweenapp-main-34:/layout/basket_activity.xml"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.halloweenapp-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/drawable_background.xml.flat",
+        "source": "com.example.halloweenapp-main-34:/drawable/background.xml"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/xml_backup_rules.xml.flat",
+        "source": "com.example.halloweenapp-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.halloweenapp-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/drawable_menu_shape.xml.flat",
+        "source": "com.example.halloweenapp-main-34:/drawable/menu_shape.xml"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.halloweenapp-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/drawable_bt3_white.xml.flat",
+        "source": "com.example.halloweenapp-main-34:/drawable/bt3_white.xml"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.halloweenapp-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/drawable_button_shape.xml.flat",
+        "source": "com.example.halloweenapp-main-34:/drawable/button_shape.xml"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.halloweenapp-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.halloweenapp-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/drawable_ghost.xml.flat",
+        "source": "com.example.halloweenapp-main-34:/drawable/ghost.xml"
+    },
+    {
+        "merged": "com.example.halloweenapp-debug-32:/drawable_edit_text_shape.xml.flat",
+        "source": "com.example.halloweenapp-main-34:/drawable/edit_text_shape.xml"
+    }
+]
