@@ -4,10 +4,15 @@
 
 ## Скриншоты
 
+## Главный экран
 ![Главный экран](screenshots/main.png)
+## Окно авторизации
 ![Окно авторизации](screenshots/sign_in.png)
+## Меню
 ![Меню](screenshots/menu.png)
+## Корзина
 ![Корзина](screenshots/basket.png)
+## Профиль
 ![Профиль](screenshots/profile.png)
 
 ## Стек
