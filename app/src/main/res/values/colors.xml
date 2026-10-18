@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#720983</color>
+    <color name="blue">#13037B</color>
+    <color name="orange">#C7532E</color>
+    <color name="edittext">#E88667</color>
+    <color name="button">#C7532E</color>
+    <color name="menu">#BFC7532E</color>
+</resources>

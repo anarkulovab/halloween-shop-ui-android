@@ -1,0 +1,82 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.HalloweenApp" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.HalloweenApp" parent="Base.Theme.HalloweenApp" />
+
+    <style name="frame_dish_style">
+        <item name="android:layout_width">338dp</item>
+        <item name="android:layout_height">175dp</item>
+        <item name="android:layout_marginStart">13dp</item>
+        <item name="android:background">@drawable/linear_shape</item>
+    </style>
+
+    <style name="image_dish">
+        <item name="android:layout_width">143dp</item>
+        <item name="android:layout_height">147.72dp</item>
+        <item name="android:src">@drawable/soup</item>
+    </style>
+
+    <style name="text_dishname">
+        <item name="android:layout_width">173dp</item>
+        <item name="android:layout_height">93dp</item>
+        <item name="android:layout_marginTop">44dp</item>
+        <item name="android:layout_marginStart">152dp</item>
+        <item name="android:text">@string/dishName</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/yeon_sung</item>
+    </style>
+
+    <style name="text_dishprice">
+        <item name="android:layout_width">79dp</item>
+        <item name="android:layout_height">22dp</item>
+        <item name="android:layout_marginTop">129dp</item>
+        <item name="android:layout_marginStart">225dp</item>
+        <item name="android:text">@string/dishPrice</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/yeon_sung</item>
+    </style>
+
+    <style name="basket_linear_left">
+        <item name="android:layout_width">142dp</item>
+        <item name="android:layout_marginStart">20dp</item>
+        <item name="android:clipChildren">false</item>
+    </style>
+
+    <style name="basket_linear_right">
+        <item name="android:layout_width">142dp</item>
+        <item name="android:layout_marginStart">35dp</item>
+        <item name="android:clipChildren">false</item>
+        <item name="android:layout_height">243dp</item>
+    </style>
+
+    <style name="basket_frame">
+        <item name="android:layout_width">142dp</item>
+        <item name="android:layout_height">185dp</item>
+        <item name="android:background">@drawable/menu_shape</item>
+        <item name="android:clipChildren">false</item>
+    </style>
+
+    <style name="basket_image">
+        <item name="android:layout_width">142dp</item>
+        <item name="android:layout_height">148.25dp</item>
+        <item name="android:translationY">-8dp</item>
+        <item name="android:src">@drawable/soup</item>
+    </style>
+
+    <style name="basket_text">
+        <item name="android:layout_width">79dp</item>
+        <item name="android:layout_height">22dp</item>
+        <item name="android:layout_marginTop">151dp</item>
+        <item name="android:layout_marginStart">38dp</item>
+        <item name="android:text">@string/dishPrice</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:fontFamily">@font/yeon_sung</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+</resources>

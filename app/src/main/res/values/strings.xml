@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">halloweenApp</string>
+    <string name="headline">Halloween</string>
+    <string name="haha">HA-HA-HA!</string>
+    <string name="user">Username</string>
+    <string name="pass">Password</string>
+    <string name="enter">Enter</string>
+    <string name="dishName">Сырный крем-\nсуп с креветками и луком фри</string>
+    <string name="dishPrice">390 ₽</string>
+    <string name="waiting">Waiting for order…</string>
+    <string name="name">Freddy\n\nKrueger</string>
+    <string name="info">Adress: A Nightmare on Elm Street\n\n Phone: 8 800 2000 600\n\n Card number: Ha-HA-Ha\n\n Good luck</string>
+
+
+</resources>
